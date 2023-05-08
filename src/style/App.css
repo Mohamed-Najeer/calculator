@@ -1,0 +1,25 @@
+body{
+    background-color: grey;
+}
+button{
+    width:55px;
+    height:30px;
+    margin:1px;
+    background-color: burlywood;
+    border:transparent;
+}
+input{
+    width:225px;
+    height:30px;
+    background:black;
+    color:white;
+    text-align:right;
+    border:transparent;
+}
+.equal{
+    width:226px;
+    font-weight:bold;
+}
+.calc{
+    margin:20%;
+}
